@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GitHubUserApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="setting">Setting</string>
+    <string name="github_user_app">GitHub User App</string>
+    <string name="hint">Tuliskan kata kunci</string>
+    <string name="repos">Repository</string>
+    <string name="follwer_count">Followers</string>
+    <string name="follwing_count">Following</string>
+    <string name="follower">Followers</string>
+    <string name="following">Following</string>
+    <string name="fvorit_list">Favorite List</string>
+    <string name="add_success">Berhasil ditambahkan ke favorit</string>
+    <string name="delete_success">Berhasil menghapus dari Favorit</string>
+    <string name="dark_mode">DarkMode</string>
+    <string name="back">Back</string>
+    <string name="logo_splash">logo</string>
+</resources>

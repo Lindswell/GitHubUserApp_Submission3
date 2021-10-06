@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.githubuserapp.ui.fragment.HomeFragment"
+        tools:layout="@layout/fragment_home"
+        tools:ignore="MenuTitle"/>
+
+    <fragment
+        android:id="@+id/favoriteFragment"
+        android:name="com.example.githubuserapp.ui.fragment.FavoriteFragment"
+        tools:layout="@layout/fragment_favorite"
+        tools:ignore="MenuTitle"/>
+
+    <fragment
+        android:id="@+id/settingFragment"
+        android:name="com.example.githubuserapp.ui.fragment.SettingFragment"
+        tools:layout="@layout/fragment_setting"
+        tools:ignore="MenuTitle"/>
+
+</navigation>
